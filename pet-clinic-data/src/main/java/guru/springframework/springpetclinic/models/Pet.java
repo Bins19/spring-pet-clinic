@@ -1,4 +1,4 @@
-package guru.springframework.springpetclinic.model;
+package guru.springframework.springpetclinic.models;
 
 import java.time.LocalDate;
 
