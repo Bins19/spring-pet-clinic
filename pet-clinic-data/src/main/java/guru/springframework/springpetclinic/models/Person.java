@@ -1,6 +1,6 @@
 package guru.springframework.springpetclinic.models;
 
-public class Person {
+public class Person extends BaseEntity {
 
     private String firstName;
 
